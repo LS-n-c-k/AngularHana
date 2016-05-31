@@ -1,4 +1,4 @@
-![Standard Rev 90](C:/Users/Admin/Desktop/textImgs2/capture2.png)
+![Standard Rev 90](textImgs/capture2.png)
 
 <h1><font color="orange"> Angular- with Odata service </font></h1>
 ---------------------------------------------------------------------------
@@ -10,14 +10,14 @@ We will use **$http** to consume the odata service in AngularJS app
 
 1.Call the odata service using $http
 
-![Standard Rev 90](C:/Users/Admin/Desktop/textImgs2/19.1.png)
+![Standard Rev 90](textImgs/19.1.png)
 
 - A view of AngularJS code
-![Standard Rev 90](C:/Users/Admin/Desktop/textImgs2/20.png)
+![Standard Rev 90](textImgs/20.png)
 
 2.Output
 
-![Standard Rev 90](C:/Users/Admin/Desktop/textImgs2/normalout.png)
+![Standard Rev 90](textImgs/normalout.png)
 
 3.Use **Bootstrap**
 
@@ -29,11 +29,11 @@ We will use **$http** to consume the odata service in AngularJS app
 - Bootstrap is open source. It's hosted, developed, and maintained on GitHub
 - Millions of amazing sites across the web are being built with Bootstrap
 
-![Standard Rev 90](C:/Users/Admin/Desktop/textImgs2/21.png)
+![Standard Rev 90](textImgs/21.png)
 
 4.Output
 
-![Standard Rev 90](C:/Users/Admin/Desktop/textImgs2/BootStrap.png)
+![Standard Rev 90](textImgs/BootStrap.png)
 
 
 
