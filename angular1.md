@@ -10,6 +10,7 @@
 - It is a client tool, which can be used to access local or remote HANA system
 - The SAP HANA studio provides an environment for Administration, Modeling and Data Provisioning. There are several predefined User Interface layouts addressing several applications types called Perspectives. 
 In HANA Studio every HANA system has two main sub-nodes, Catalog and Content
+- To run Hana Studio Java JRE 1.6 or 1.7 must be installed in our system. The Java runtime must be specified in the PATH variable.
 
 
 1.Create hana table **Products.sql**
