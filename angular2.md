@@ -53,17 +53,18 @@
 
 <h3>Main parts of AngularJS app</h3>
 
-- Add ng-app="myApp" in html tag
-- Use "http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js" on head
-- Add ng-controller="productsCtrl" to div tag(where we want get data from the JS script)
-- In script create a Angular Js app "var app = angular.module('myApp', [ ]);"
-- write the actual code in "app.controller"
+- To define AngularJs application in our Angular App we are going to define ng-app="myApp" in html tag
+- AngularJS is distributed as a JavaScript file and we can define AngularJS to a web page with a script tag:      "http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js" on head
+- Now we need to define Application Controller to our code by the tag: ng-controller="productsCtrl" to div tag(where we want to get data from the JS script).Controller is created by Javascript ObjectConstructor,it is a JavaScript Object.
+- In script create a Angular Js app "var app = angular.module('myApp', [ ]);",this application will run under <div> of our script
+- Now we need to write  the actual code in "app.controller"
+- Here 'productsCtrl' function is a javascript function.
 
 ![Standard Rev 90](textImgs/13.png)
 
 
 
-In the next tutorial we'll consume the odata service in Angular app
+In the next tutorial we'll consume the oData Service in Angular app to show the datas in our Angular app
 
 
 
